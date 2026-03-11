@@ -5,8 +5,8 @@
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://whouphesaussums.net/4/8554813";
+        location.href="https://wy903.com/8554813";
     }
     function goon(){
-        location.href="https://whouphesaussums.net/4/8554813";
+        location.href="https://wy903.com/8554813";
     }
